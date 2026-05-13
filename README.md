@@ -5,3 +5,5 @@ Data visualizations prepared in Power BI.
 02_sales_insights_india_market - project proposed by codebasics YT channel, data describes sales of electronics equipment by an Indian vendor in years 2017 - 2020, the major flaw in the dataset is missing assigment of product code in circa 400k sales items
 
 03_pizza_sales_insights_project - project proposed by Data Tutorials YT channel, data describes the revenue and amount of pizza sold in a restaurant during year 2015 (apart from the dashboard I've also included SQL query for KPIs based on the data)
+
+04_blinkit_supermarket_sales_project - project proposed by Data Tutorials YT channel, data describes sales of a supermarket blinkit broken down by items, their fat content and outlets sizes, locations and years of establishment
